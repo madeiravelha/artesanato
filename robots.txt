@@ -1,0 +1,6 @@
+# Instructs search engines on how to crawl the Madeira Velha website
+User-agent: *
+Allow: /
+
+# Sitemaps locations to guide search engine indexers
+Sitemap: https://madeiravelha.github.io/sitemap.xml

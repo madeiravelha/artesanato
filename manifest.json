@@ -1,0 +1,17 @@
+{
+  "name": "Madeira Velha Artesanato e Souvenirs",
+  "short_name": "Madeira Velha",
+  "description": "Artesanato rústico em madeira, souvenirs e lembranças dos Cânions e Balonismo em São João do Sul e Praia Grande - SC.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F5F5DC",
+  "theme_color": "#5D4037",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+madeira-velha-site/
+│
+├── index.html
+├── produtos.html
+├── galeria.html
+├── sobre.html
+├── contato.html
+├── 404.html
+├── robots.txt
+├── sitemap.xml
+├── manifest.json
+├── favicon.ico
+├── README.md
+│
+├── css/
+│   └── style.css
+│
+└── js/
+    └── main.js
